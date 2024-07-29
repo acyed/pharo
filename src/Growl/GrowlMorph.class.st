@@ -202,6 +202,7 @@ GrowlMorph >> activeGrowlMorphs [
 
 { #category : 'accessing' }
 GrowlMorph >> alpha [
+	"I return the alpha setting of the Growl Morph"
 	^ alpha
 ]
 
